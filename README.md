@@ -123,4 +123,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - **Contributing**: Instructions for contributing, which can attract developers interested in enhancing the tool.
 - **License**: Legal information about project usage.
 
-This README template is comprehensive yet flexible. Feel free to adjust it based on the unique characteristics of your project. Let me know if you’d like to add any additional details!
+
